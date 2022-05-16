@@ -9,10 +9,6 @@ import com.mycompany.myapp.App;
 import javafx.scene.Scene;
 import javafx.scene.layout.TilePane;
 
-/**
- *
- * @author cadua
- */
 public abstract class AbstractScene extends Scene{
 
     public AbstractScene(App app) {
